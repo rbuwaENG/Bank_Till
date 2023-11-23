@@ -1,0 +1,11 @@
+
+========================================
+Name of customer:	Mr chamara perera
+Selected loan:	Vehicle
+Maximum repay period:	32759
+Anual interest rate:	14%
+Requested loan amount:	300000
+Requested repay period:	40
+Total amount to be paid:	140000
+
+========================================

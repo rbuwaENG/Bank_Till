@@ -1,0 +1,11 @@
+
+========================================
+Name of customer:	Mr samarasinghe
+Selected loan:	Vehicle
+Maximum repay period:	60
+Anual interest rate:	14%
+Requested loan amount:	500000
+Requested repay period:	35
+Total amount to be paid:	611883
+
+========================================
